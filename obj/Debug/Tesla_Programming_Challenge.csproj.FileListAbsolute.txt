@@ -1,0 +1,10 @@
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\bin\Debug\Tesla_Programming_Challenge.exe.config
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\bin\Debug\Tesla_Programming_Challenge.exe
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\bin\Debug\Tesla_Programming_Challenge.pdb
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\obj\Debug\Tesla_Programming_Challenge.csprojAssemblyReference.cache
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\obj\Debug\Tesla_Programming_Challenge.Form1.resources
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\obj\Debug\Tesla_Programming_Challenge.Properties.Resources.resources
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\obj\Debug\Tesla_Programming_Challenge.csproj.GenerateResource.cache
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\obj\Debug\Tesla_Programming_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\obj\Debug\Tesla_Programming_Challenge.exe
+C:\Users\amiraslamov\source\repos\Tesla_Programming_Challenge\Tesla_Programming_Challenge\obj\Debug\Tesla_Programming_Challenge.pdb
